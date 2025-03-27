@@ -5,7 +5,7 @@ Technologies Used
 
 Backend: Django, Django REST Framework (DRF)
 
-Database: SQLite / PostgreSQL
+Database: SQLite
 
 Async Tasks: Celery, Redis
 
